@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Tapkire</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetatapkire00777&label=Profile%20views&color=0e75b6&style=flat" alt="shwetatapkire00777" /> </p>
+<img align="left" alt="Analysis" width="400" src="https://komarev.com/ghpvc/?username=shwetatapkire00777&label=Profile%20views&color=0e75b6&style=flat" >
 
 - 📫 How to reach me **stshwetatapkire27@gmail.com**
 
